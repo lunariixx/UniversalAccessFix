@@ -1,7 +1,7 @@
-Version = "1.0.4"
-UniversalTags = {"id_medical", "id_medic", "id_medicaldoctor", "jobid:medicaldoctor", "id_surgeon", "jobid:surgeon",
-                 "id_engineer", "jobid:engineer", "id_mechanic", "jobid:mechanic", "id_security",
-                 "jobid:securityofficer", "id_captain", "jobid:captain", "id_assistant", "jobid:assistant",
+Version = "1.0.8"
+UniversalTags = {"id_medical", "id_medic", "id_medicaldoctor", "id_surgeon",
+                 "id_engineer", "id_mechanic", "id_security",
+                 "id_captain",  "id_assistant",
                  "id_command", "id_allaccess"}
 
 Timer.Wait(function()
