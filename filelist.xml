@@ -1,12 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentpackage name="Universal Access Mod"
-    modversion="1.0.7"
+    modversion="1.0.8"
     corepackage="False"
     steamworkshopid="3496922442"
     gameversion="1.10.7.2">
-
-    <files>
-        <file file="%ModDir%/Lua/Autorun/init.lua" />
-    </files>
 
 </contentpackage>
